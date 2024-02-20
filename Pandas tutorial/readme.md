@@ -1,2 +1,2 @@
 Pandas tutorial
-Excel file is uploaded for data analysis via pandas
+Excel file is uploaded in rar format, please download and extract.
