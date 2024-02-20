@@ -1,1 +1,1 @@
-Download and extract rar files
+Download the files
